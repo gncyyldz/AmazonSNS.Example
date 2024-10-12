@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Publisher", "Publisher\Publisher.csproj", "{6425868F-6C0F-4179-A9A5-4CCE66196A8D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LambdaSubscriber", "LambdaSubscriber\LambdaSubscriber.csproj", "{23B40815-6583-4359-A352-21FF9FEB0F81}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6425868F-6C0F-4179-A9A5-4CCE66196A8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6425868F-6C0F-4179-A9A5-4CCE66196A8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6425868F-6C0F-4179-A9A5-4CCE66196A8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6425868F-6C0F-4179-A9A5-4CCE66196A8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23B40815-6583-4359-A352-21FF9FEB0F81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23B40815-6583-4359-A352-21FF9FEB0F81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23B40815-6583-4359-A352-21FF9FEB0F81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23B40815-6583-4359-A352-21FF9FEB0F81}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {48FA6780-9462-44E3-A7AB-1F9FB53E1477}
+	EndGlobalSection
+EndGlobal
